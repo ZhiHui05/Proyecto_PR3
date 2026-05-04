@@ -1,0 +1,57 @@
+- almacenaje y pedidos en batches
+cantidad de batches 
+
+
+- spawner de 
+[agua, azucar, harina, 
+mantequilla, levadura] DIMENSIONES
+
+
+
+
+- Tiempos en los mixers para croissants 
+magdalenas y bizcochos
+
+
+
+PROCESO MAG/BIZCOCHOS
+- reskin en moldeador
+añadir trabajadora en moldeador
+tiempos cambio de molde y animación
+diferentes rutas para AGV en base a la etiqueta
+
+Magdalenas
+15kg harina
+AGUA 6L
+15kg azucar
+10kg mantequilla
+
+
+bizcocho
+15kg harina
+AGUA 10L
+15kg azucar
+10kg mantequilla
+
+
+AMBOS 15min tiempo
+
+
+
+
+PROCESO CROISSANTS
+- reskin en aplanadora 1 
+(sistema de embudo + extrusor mantequilla incluir modelo)
+- reskin primer pliegue
+en aplanador3 es el segundo pliegue
+reskin despues de corte en triangulos 
+y reskin una vez dada la forma de croissant al final
+15min tiempo
+25kg harina
+5kg azucar
+5kg mantequilla
+15mas en laminador
+ 
+https://www.solucioneshosteleras.com/amasadoras/11382253-amasadora-100l-64kg-masa-2-velocidades-400v-maxima-9361100.html?lighthousefeed_utm_source=GS+-+Google+Shopping+(Via+LighthouseFeed)&lighthousefeed_utm_medium=cpc&lighthousefeed_utm_term=11382253&srsltid=AfmBOorYn81_xUg4NYPzvWTCB1a8LS9hbCpCxDRrSfKKz2LElHVjX3lLO2o
+
+MATERIAS PRIMAS 
