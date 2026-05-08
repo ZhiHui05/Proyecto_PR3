@@ -109,7 +109,7 @@ def clasificar_croissant(frame, contour):
     x, y, w, h = datos_base["bbox"]
     aspect_ratio = datos_base["aspect_ratio"]
 
-    # Mascara solo del croissant.
+    # Mascara solo del croissant.q
     mask = np.zeros(frame.shape[:2], dtype=np.uint8)
     cv2.drawContours(mask, [contour], -1, 255, -1)
 
