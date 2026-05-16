@@ -1,0 +1,56 @@
+# material "Top_AEG"
+newmtl 15625f50_e0c5_4edb_8730_1f982c0f527d
+illum 1
+Ka 0 0 0
+Kd 0.745098 0.745098 0.745098
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+map_Ka Log_AEG2.jpg
+map_Kd Log_AEG2.jpg
+
+# material "Grey"
+newmtl 601e2ed6_2c37_4303_b5b9_de70c3ad0a8d
+illum 1
+Ka 0 0 0
+Kd 0.411765 0.411765 0.411765
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+
+# material "Default Material"
+newmtl Default_Material
+illum 1
+Ka 0.792157 0.211765 0.0627451
+Kd 1 0 0
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+
+# material "Bottom_"
+newmtl b8122750_2972_4272_8cea_aada699d0a53
+illum 1
+Ka 0 0 0
+Kd 0.745098 0.745098 0.745098
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+map_Ka Bottom1.jpg
+map_Kd Bottom1.jpg
+
+# material "Stainless_Steel"
+newmtl ccac05c4_2501_43dd_a4af_183714ab3d1f
+illum 1
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+Ns 0.201991
+
+
