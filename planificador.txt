@@ -21,14 +21,14 @@ tiempos cambio de molde y animación
 diferentes rutas para AGV en base a la etiqueta
 
 Magdalenas
-15kg harina
+12.5kg harina
 AGUA 6L
 15kg azucar
 10kg mantequilla
 
 
 bizcocho
-15kg harina
+12.5kg harina
 AGUA 10L
 15kg azucar
 10kg mantequilla
